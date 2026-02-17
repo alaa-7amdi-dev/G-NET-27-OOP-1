@@ -49,6 +49,15 @@
 
             #endregion
 
+            #region Class Library
+            /*
+             1:Create new project
+             2:Select Class Library
+             3:Write Library Code and Build the  Project.
+             4:Add project Reference and Select The path of class library
+             */
+            #endregion
+
 
 
         }
