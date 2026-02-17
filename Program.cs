@@ -58,6 +58,21 @@
              */
             #endregion
 
+            #region Class_library
+            /*
+             Class library=>A Class Library is a separate project that contains reusable classes,
+            but has no Main method and cannot run on its own.
+            It compiles into a .dll file .
+
+            Why Use=>
+            1:Reusability=>write once ,use in many project;
+            2:Organization
+            3:Maintenance=>Error Detecting is Easily
+            4:Teamwork=>different developers work on different libraries
+             
+             */
+            #endregion
+
 
 
         }
